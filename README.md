@@ -70,7 +70,7 @@ Supported test methods:
 
 If you use this tool in your research or publication, please cite:
 
-> Patel, D. (2024). [*Validation of Generalized Moment-Curvature Model for Limit State Design of Reinforced UHPC Flexure Members*](https://doi.org/10.1061/JSENDH.STENG-12235), Journal of Structural Engineering.
+> Pleesudjai, C. (2024). [*Generalized Nonlinear Moment–Curvature Model for Serviceability-Based Design of Hybrid Reinforced Concrete*](https://doi.org/10.1061/JSENDH.STENG-12235), Journal of Structural Engineering.
 
 ---
 
